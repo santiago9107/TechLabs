@@ -68,4 +68,6 @@ footer a{
 
 .column {
     border: 2px solid black;
+    width: 700px;
+    height: 230px;
 }
