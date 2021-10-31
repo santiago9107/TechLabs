@@ -54,3 +54,13 @@ footer a{
     color: white;
     text-decoration: none;
 }
+
+
+.columns {
+    width: 750px; 
+    display: flex;
+}
+
+.column {
+    border: 2px solid black;
+}
