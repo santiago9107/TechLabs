@@ -61,6 +61,11 @@ footer a{
     display: flex;
 }
 
+.columns1 {
+    width: 750px; 
+    display: flex;
+}
+
 .column {
     border: 2px solid black;
 }
