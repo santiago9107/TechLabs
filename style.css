@@ -5,7 +5,9 @@ nav {
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-
+#text{
+    justify-content: center;
+}
 #nav_menu li{
     list-style: none;
     display: inline;
@@ -32,14 +34,6 @@ p{
     margin-right: 60px;
 }
 
-img{
-    border-radius: 8px;
-    max-width: 50%;
-    max-height: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
 
 footer{
     background-color: rgb(13, 73, 13);
@@ -70,4 +64,15 @@ footer a{
     border: 2px solid black;
     width: 700px;
     height: 230px;
+    text-align: center;
+    justify-content: center;
+}
+
+img{
+    border-radius: 8px;
+    max-width: 50%;
+    max-height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
